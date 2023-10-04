@@ -1,3 +1,7 @@
+<b>A message from the creator</b>
+<br>
+Thank you for visiting the @kaustubhdevstack/customgpt repository! If you find this repository helpful or useful, we encourage you to start it on GitHub. Starring a repository is a way to show your support for the project. It also helps to increase the visibility of the project and to let the community know that it is valuable. Thanks again for your support and we hope you find the repository useful!
+
 # Custom GPT - AI Assistant toolkit 
 
 Watch Video https://www.youtube.com/watch?v=AozAlTwaQdY&t=3s
