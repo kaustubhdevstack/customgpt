@@ -1,0 +1,16 @@
+CRITICAL - 2023-05-06 07:02:00 --> Undefined variable $voiceTone
+in APPPATH\Controllers\Tools.php on line 1704.
+ 1 APPPATH\Controllers\Tools.php(1704): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $voiceTone', 'E:\\Xampp\\htdocs\\customgpt\\app\\Controllers\\Tools.php', 1704)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Tools->google_ads()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tools))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-06 07:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-05-06 07:02:52 --> Undefined variable $voiceTone
+in APPPATH\Controllers\Tools.php on line 1704.
+ 1 APPPATH\Controllers\Tools.php(1704): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $voiceTone', 'E:\\Xampp\\htdocs\\customgpt\\app\\Controllers\\Tools.php', 1704)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Tools->google_ads()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tools))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-05-06 07:04:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
