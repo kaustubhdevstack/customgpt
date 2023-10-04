@@ -77,22 +77,22 @@ All the functionality related to the user profile is inside this controller
 
 <b>For super admin:</b>
 
-Upload/Change Avatar
-Change Email
-Change Password
-Update Name
-Add new team members with roles
-Block team member (Blocks user from accessing the account)
-Archive team member (Deletes user account temporarily admin can later restore the account it also blocks the user from accessing the account)
-Deactivate Team Member (Makes account status inactive which blocks the user from login)
-Delete Team member permanently
+- Upload/Change Avatar
+- Change Email
+- Change Password
+- Update Name
+- Add new team members with roles
+- Block team member (Blocks user from accessing the account)
+- Archive team member (Deletes user account temporarily admin can later restore the account it also blocks the user from accessing the account)
+- Deactivate Team Member (Makes account status inactive which blocks the user from login)
+- Delete Team member permanently
 
 <b>For Regular users:</b>
 
-Upload/Change Avatar
-Change Email
-Change Password
-Update Name
+- Upload/Change Avatar
+- Change Email
+- Change Password
+- Update Name
 
 - <b>The Tools Controller</b>
 
