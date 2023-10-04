@@ -1,10 +1,10 @@
-# Custom GPT - Customizable SaaS powered by GPT 3 & 3.5
+# Custom GPT - AI Assistant toolkit 
 
 Watch Video https://www.youtube.com/watch?v=AozAlTwaQdY&t=3s
 
 ## What is Custom GPT?
 
-Custom GPT is an AI-powered Customizable SaaS assistant Created using [Open AI PHP API](https://github.com/orhanerday/open-ai), [CodeIgniter](https://codeigniter.com/download) [Admin LTE 3](https://adminlte.io/themes/v3/)
+Custom GPT is an AI-powered Customizable SaaS assistant Created using [Open AI PHP API Library](https://github.com/orhanerday/open-ai), [CodeIgniter](https://codeigniter.com/download) [Admin LTE 3](https://adminlte.io/themes/v3/)
 
 This repository has all the necessary AI Toolkits that are required by Digital Marketers and Coders
 
@@ -138,6 +138,11 @@ The rest all depends on your knowledge of the CodeIgniter 4 Framework.
 We have used Open AI for this to make sure the AI tools function properly, hence, these tools won't work without an Open AI API Key, so make sure you add the API Key before working with the application itself. 
 
 OPEN_AI_API_KEY = '' 
+
+## Open AI PHP Library
+
+This application uses [Open AI PHP API Library](https://github.com/orhanerday/open-ai) Created by [Orhanerday](https://github.com/orhanerday)
+The files can be found at - vendor/orhanerday/open-ai
 
 ## Support my work
 
